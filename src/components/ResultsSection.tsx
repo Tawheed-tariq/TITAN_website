@@ -3,7 +3,7 @@ const ResultsSection = () => {
     <section className="bg-background py-16 transition-colors duration-300">
       <div className="max-w-5xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center mb-12 text-foreground">
-          Quantitative Results on Mammogram Datasets
+          Quantitative Results on Datasets
         </h2>
         
         {/* Evaluation Metric */}
